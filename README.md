@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Anil B S</h1>
 <h3 align="center">A passionate web developer from India 🇮🇳 </h3>
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Anilbs1437&label=Profile%40views&color=ff0000&style=plastic" alt="Anilbs1437" /> 
+</p>
+
+
 -🔰 I'm currently learning Full Stack web development 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1hvZRv_v6DFEMugxYje4nYfiqlQLOhc75/view?usp=drivesdk)
 - 💻 All of my projects are available on [GitHub](https://github.com/Anilbs1437)
@@ -24,7 +29,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anilbs1437&theme=buefy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anilbs1437&theme=buefy&hide_border=false)
 
+<h3 align="left">Contribute:</h3>
+<p><a href="https://www.buymeacoffee.com/Anilbs1437"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="Anilbs1437" /></a></p><br><br>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Anilbs1437&icon=5&color=0)](https://visitcount.itsvg.in)
