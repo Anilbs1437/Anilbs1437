@@ -3,15 +3,14 @@
 <h3 align="center">A passionate web developer from India 🇮🇳 </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Anilbs1437&label=Profile%40views&color=ff0000&style=plastic" alt="Anilbs1437" /> 
+  <img src="https://komarev.com/ghpvc/?username=Anilbs1437&label=Profile%20views&color=ff0000&style=plastic" alt="Anilbs1437" /> 
 </p>
-
 
 -🔰 I'm currently learning Full Stack web development 
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1hvZRv_v6DFEMugxYje4nYfiqlQLOhc75/view?usp=drivesdk)
 - 💻 All of my projects are available on [GitHub](https://github.com/Anilbs1437)
 - 💬 Ask me about ,<br>        - **Web Development**<br>        - **Bootstrap,Tailwind CSS and  Django Frameworks**<br>        - **Frontend Development with Html,CSS and JavaScript**
-- 📫 Reach out to me at<br>         - Email:**anilbs2003@gmail.com** <br>         - LinkedIn : **www.linkedin.com/in/anil-b-s-computerscience-and-engineering**<br>        - Twitter :**https://x.com/Anilbs1437?t=9Ofq_lDhMQHH6jRe7AkOfA&s=09**<br> <br><br><br>
+- 📫 Reach out to me at<br>         - Email:**anilbs2003@gmail.com** <br>         - LinkedIn : **www.linkedin.com/in/anil-b-s-computerscience-and-engineering**<br>        - Twitter :**https://x.com/Anilbs1437?t=9Ofq_lDhMQHH6jRe7AkOfA&s=09**<br> <br><br>
 
 
 ## 🌐 Socials:
